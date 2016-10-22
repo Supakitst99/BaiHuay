@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_bright"
+    android:textAlignment="center">
+
+    <TextView
+        android:text="เลขท้าย 2 ตัว"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/textView2"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:padding="30dp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/textView4"
+        android:textAlignment="center"
+        android:textSize="60sp" />
+</LinearLayout>
